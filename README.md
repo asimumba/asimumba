@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on __Deploying ML models__
 - 🌱 I’m currently learning __**Software Engineering**__
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronsimumba/),[Twitter](https://twitter.com/asimumba_) and [Website](https://asimumba.rbind.io)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronsimumba/), [Twitter](https://twitter.com/asimumba_) and [Website](https://asimumba.rbind.io)
 - ⚡ Fun fact: **Marathon Runner**
 
 I am currently working at @EFC Zambia as Business Intelligence & Analytics Lead.
