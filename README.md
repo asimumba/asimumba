@@ -9,4 +9,6 @@ I am currently working at @EFC Zambia as Business Intelligence & Analytics Lead.
 
 You can find my open source contribution at https://github.com/asimumba/. My portfolio and projects can be accessed on my personal website https://asimumba.rbind.io
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimumba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimumba&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimumba&hide=html,jupyter%20notebook,Tex,SASS,SCSS,CSS,LessLayout=&langs_count=8&theme=dracula&layout=compact)
