@@ -12,3 +12,5 @@ You can find my open source contribution at https://github.com/asimumba/. My por
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asimumba&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aaron's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimumba&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asimumba&theme=dracula&hide_border=true)](https://git.io/streak-stats)
