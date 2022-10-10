@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on __Deploying ML models__
-- 🌱 I’m currently learning __**Software Engineering**__
+- 🌱 I’m currently learning __**[Software Engineering](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)**__ from [**ALX**](https://www.alxafrica.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronsimumba/), [Twitter](https://twitter.com/asimumba_) and [Website](https://asimumba.rbind.io)
 - ⚡ Fun fact: **Marathon Runner**
 
