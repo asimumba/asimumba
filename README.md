@@ -5,12 +5,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaronsimumba/), [Twitter](https://twitter.com/asimumba_) and [Website](https://asimumba.rbind.io)
 - ⚡ Fun fact: **Marathon Runner**
 
-I am currently working at @EFC Zambia as Business Intelligence & Analytics Lead.
+I work at [EFC Zambia](https://efczambia.com.zm/) as Business Intelligence & Analytics Lead.
 
 You can find my open source contribution at https://github.com/asimumba/. My portfolio and projects can be accessed on my personal website https://asimumba.rbind.io
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asimumba&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Aaron's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimumba&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a  href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asimumba&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&layout=compact" alt="Aaron's github stats" /></a> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimumba&theme=dracula&hide_border=true&layout=compact"/></a> 
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimumba&layout=compact&theme=dracula&hide_border=true" /></a>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimumba&theme=dracula&hide_border=true&layout=compact"/></a> 
 
-<img align="" height='180px' src="https://github-readme-streak-stats.herokuapp.com/?user=macbhaldar"/><img align="" height='180px' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimumba&theme=dracula&hide_border=true"/>
